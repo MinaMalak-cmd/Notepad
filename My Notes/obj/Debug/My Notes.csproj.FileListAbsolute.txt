@@ -1,0 +1,11 @@
+E:\VS Projects\Desktop Applications\My Notes\bin\Debug\My Notes.exe.config
+E:\VS Projects\Desktop Applications\My Notes\bin\Debug\My Notes.exe
+E:\VS Projects\Desktop Applications\My Notes\bin\Debug\My Notes.pdb
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My Notes.csprojAssemblyReference.cache
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My_Notes.Form1.resources
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My_Notes.Properties.Resources.resources
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My Notes.csproj.GenerateResource.cache
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My Notes.csproj.CoreCompileInputs.cache
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My Notes.exe
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My Notes.pdb
+E:\VS Projects\Desktop Applications\My Notes\obj\Debug\My_Notes.NotePad.resources
